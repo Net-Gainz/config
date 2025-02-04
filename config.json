@@ -1,12 +1,42 @@
 {
-  "offer1": {
+  "RYDI01_MStock": {
     "campaignName": "MStock",
     "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
     "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=BhagwanJha&utm_medium=Affiliates&utm_campaign=BhagwanJha_1234&utm_content=Rahul&utm_adgroup=BhagwanJha_BAU"
   },
-  "offer2": {
-    "campaignName": "New Year Deal",
-    "logoURL": "https://example.com/newyear-logo.png",
-    "redirectURL": "https://example.com/newyear"
+  "AU6Y_Upstox": {
+    "campaignName": "Upstox",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
+    "redirectURL": "https://upstox.com/open-account/?f=87AU6Y"
+  },
+  "G100_MotilalOswal": {
+    "campaignName": "Motilal Oswal",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
+    "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=N1029240"
+  },
+  "SACT_AngelOne": {
+    "campaignName": "Angel One",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
+    "redirectURL": "https://bit.ly/4g6NIQt"
+  },
+  "VY_AngelOne": {
+    "campaignName": "Angel One",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
+    "redirectURL": "https://bit.ly/40qOMZs"
+  },
+  "hba_AngelOne": {
+    "campaignName": "Angel One",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
+    "redirectURL": "https://bit.ly/4atvwPH"
+  },
+  "1008_5Paisa-stop": {
+    "campaignName": "5 Paisa",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733327014/_323_42_xynof8.webp",
+    "redirectURL": "https://bit.ly/3PqKEDQ"
+  },
+  "GY7709_MotilalOswal": {
+    "campaignName": "Motilal Oswal",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
+    "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=G1007709"
   }
 }
