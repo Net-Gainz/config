@@ -44,4 +44,16 @@
     "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
     "redirectURL": "https://a.aonelink.in/ANGOne/7WmCDVm?utm_source=Digi9&utm_medium=Digi9&utm_campaign=Digi9"
   }
+  {
+  "GIDI7_MStock": {
+    "campaignName": "MStock",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
+    "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=FEB25_DiGi7&utm_adgroup=Rahul_BAU"
+  },
+  {
+  "GIDI1_MStock": {
+    "campaignName": "MStock",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
+    "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=FEB25_DiGi1&utm_adgroup=Rahul_BAU"
+  }
 }
