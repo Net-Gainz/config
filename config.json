@@ -78,5 +78,10 @@
     "campaignName": "Upstox - DiGi",
     "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
     "redirectURL": "https://upstox.com/open-account/?f=8EMD"
+  },
+ "DIGI_MStock": {
+    "campaignName": "MStock - DIGI",
+    "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
+    "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=BhagwanJha&utm_medium=Affiliates&utm_campaign=BhagwanJha_1234&utm_content=RawatFintech_FDIGI&utm_adgroup=BhagwanJha_BAU"
   }
 }
