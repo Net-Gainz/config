@@ -9,7 +9,7 @@
         "active": 1,
         "campaignName": "MStock",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
-        "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=APL25_DIGI9&utm_adgroup=Rahul_BAU"
+        "redirectURL": "https://ekyc.miraeassetcm.com/Register-with-us?ref=REF399581%26refsrc=2"
     },
     "HCA_MStock": {
         "active": 1,
@@ -97,7 +97,7 @@
         "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=FEB25_DiGi7&utm_adgroup=Rahul_BAU"
     },
     "DiGi_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=MARCH2025_DIGI&utm_adgroup=Rahul_BAU"
@@ -115,25 +115,25 @@
         "redirectURL": "https://upstox.com/open-account/?f=8EMD"
     },
     "DIGI_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=APL25_DIGI1&utm_adgroup=Rahul_BAU"
     },
     "D2_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=APL25_DIGI2&utm_adgroup=Rahul_BAU"
     },
     "D6_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=MARCH2025_DIGI6&utm_adgroup=Rahul_BAU"
     },
     "D3_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "https://www.mstock.com/open-demat-account?utm_source=Rahul_YT&utm_medium=Youtube_BAU&utm_campaign=Rahul_Youtube_2024&utm_content=APL25_DIGI3&utm_adgroup=Rahul_BAU"
