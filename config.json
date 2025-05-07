@@ -149,5 +149,11 @@
         "campaignName": "Bajaj Finserv - NetGainz",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736584710/a716035b5477863555b43e8071191184_qbmzzk.png",
         "redirectURL": "https://flyy.in/098A1CI"
+    },
+    "OFL_Market4You": {
+        "active": 1,
+        "campaignName": "Markets4You",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1746615641/Markets4you_Logo_cscf7y.jpg",
+        "redirectURL": "https://trk.netgainz.in/as?o=21617144&m=1446&a=633875&sub_aff_id="
     }
 }
