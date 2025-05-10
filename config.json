@@ -66,19 +66,19 @@
         "redirectURL": "https://bit.ly/3PqKEDQ"
     },
     "GY7709_MotilalOswal": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=G1007709"
     },
-    "G100_MotilalOswal": {
+    "NG_MotilalOswal": {
         "active": 1,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=N1029240"
     },
     "HIM0225_MotilalOswal": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=H1017817"
