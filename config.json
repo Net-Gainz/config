@@ -185,5 +185,11 @@
         "campaignName": "SmallCase - NetGainz",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1748879738/Logo_smallcase_xcwtnf.png",
         "redirectURL": "https://trk.netgainz.in/of?o=21644489&m=1446&a=633875&sub_aff_id="
+    },
+"NGJ25_MStock": {
+        "active": 1,
+        "campaignName": "MStock",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
+        "redirectURL": "http://trk.netgainz.in/at?sub_id1="
     }
 }
