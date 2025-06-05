@@ -197,5 +197,11 @@
         "campaignName": "Paytm Money",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1749119320/Paytm_Money_Logo_redgt7.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21619849&m=1446&a=633875&sub_aff_id="
+    },
+"NGJ25_5Paisa": {
+        "active": 0,
+        "campaignName": "5 Paisa - NetGainz",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733327014/_323_42_xynof8.webp",
+        "redirectURL": "http://trk.netgainz.in/ps?o=21228990&m=12754&a=677751&sub_aff_id="
     }
 }
