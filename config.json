@@ -233,5 +233,11 @@
         "campaignName": "Upstox - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-account/?f=7EAWXF"
+    },
+"AVBH_Upstox": {
+        "active": 1,
+        "campaignName": "Upstox - DIGI",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
+        "redirectURL": "https://upstox.com/open-account/?f=87AVBH"
     }
 }
