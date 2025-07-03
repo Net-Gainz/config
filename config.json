@@ -245,5 +245,11 @@
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=370&aff_sub2="
+    },
+NGJY25_Groww": {
+        "active": 1,
+        "campaignName": "Groww",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/Groww_app_logo_kzcdms.png",
+        "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=353&aff_sub2=gaiurav"
     }
 }
