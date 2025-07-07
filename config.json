@@ -253,7 +253,7 @@
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=353&aff_sub2="
     },
  "NG_Upstox": {
-        "active": 0,
+        "active": 1,
         "campaignName": "Upstox",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": ""
