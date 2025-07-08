@@ -257,5 +257,11 @@
         "campaignName": "Upstox",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": ""
-    }
+    },
+ "NGJY25_Lemonn": {
+        "active": 1,
+        "campaignName": "Lemonn",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1751968356/resizecom_Logo_Lemonn_PNG_White-BG-002-2_qsrop4.png",
+        "redirectURL": "http://trk.netgainz.in/um?o=21550173&m=4534&a=606492&sub_aff_id="
+    },
 }
