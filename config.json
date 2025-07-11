@@ -265,7 +265,7 @@
         "redirectURL": "http://trk.netgainz.in/um?o=21550173&m=4534&a=606492&sub_aff_id="
     },
 "NGJY25_BajajFinserv": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Bajaj Finserv",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
         "redirectURL": "http://trk.netgainz.in/um?o=21448892&m=4534&a=606492&sub_aff_id="
@@ -275,5 +275,11 @@
         "campaignName": "Tide",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1751974975/tide-logo-og2_jy6bd3.webp",
         "redirectURL": "http://trk.netgainz.in/dg?campaign_id=486&pub_id=272&source="
+    },
+"NG0725_BajajFinserv": {
+        "active": 1,
+        "campaignName": "Bajaj Finserv",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
+        "redirectURL": "http://trk.netgainz.in/um?o=21448892&m=4534&a=606492&sub_aff_id="
     }
 }
