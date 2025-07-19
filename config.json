@@ -287,5 +287,11 @@
         "campaignName": "Bajaj Finserv",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=323&aff_sub2="
+    },
+"NGJPS7_Groww": {
+        "active": 1,
+        "campaignName": "Groww",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/Groww_app_logo_kzcdms.png",
+        "redirectURL": "http://trk.netgainz.in/jc?o=17389430&m=4534&a=606492&sub_aff_id="
     }
 }
