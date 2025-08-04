@@ -311,5 +311,11 @@
         "campaignName": "Jainam",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754297179/Jainam_Broking_Limited_Logo_jat1ng.jpg",
         "redirectURL": "http://trk.netgainz.in/of?o=21739868&m=1446&a=633875&sub_aff_id="
+    },
+"NGA25_IndusInd": {
+        "active": 1,
+        "campaignName": "IndusInd",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754309915/indusindbank_ch6des.jpg",
+        "redirectURL": "http://trk.netgainz.in/of?o=21741578&m=1446&a=633875&sub_aff_id="
     }
 }
