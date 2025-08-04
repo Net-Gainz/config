@@ -305,5 +305,11 @@
         "campaignName": "Paytm Money",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1749119320/Paytm_Money_Logo_redgt7.png",
         "redirectURL": "https://paytmmoney.page.link/FjmzqAqPuLmRvb1e8"
+    },
+"NGA25_Jainam": {
+        "active": 1,
+        "campaignName": "Jainam",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754297179/Jainam_Broking_Limited_Logo_jat1ng.jpg",
+        "redirectURL": "http://trk.netgainz.in/of?o=21739868&m=1446&a=633875"
     }
 }
