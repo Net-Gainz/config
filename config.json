@@ -317,5 +317,11 @@
         "campaignName": "IndusInd",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754310119/indusindbank_ch6des.jpg",
         "redirectURL": "http://trk.netgainz.in/of?o=21741578&m=1446&a=633875&sub_aff_id="
+    },
+ "NGA25_MStock": {
+        "active": 1,
+        "campaignName": "MStock",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
+        "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=349&aff_sub2="
     }
 }
