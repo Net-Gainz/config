@@ -323,5 +323,11 @@
         "campaignName": "MStock",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=349&aff_sub2="
+    },
+"NGA08_PaytmMoney": {
+        "active": 1,
+        "campaignName": "Paytm Money",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1749119320/Paytm_Money_Logo_redgt7.png",
+        "redirectURL": "http://trk.netgainz.in/ps?o=21669363&m=12754&a=677751&sub_aff_id="
     }
 }
