@@ -307,7 +307,7 @@
         "redirectURL": "https://paytmmoney.page.link/FjmzqAqPuLmRvb1e8"
     },
 "NG0825_Jainam": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Jainam",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754297179/Jainam_Broking_Limited_Logo_jat1ng.jpg",
         "redirectURL": "https://signup.jainam.in/?FUtF+AcVfSsOkRcB9QgZQHkW6RYQxAqI2XFxCRxmyj1w8mL1dyKvoM8TMe467cs0"
@@ -335,5 +335,11 @@
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "http://trk.netgainz.in/ps?o=20598479&m=12754&a=677751&sub_aff_id="
+    },
+"NG0825_Jainam": {
+        "active": 1,
+        "campaignName": "Jainam",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754297179/Jainam_Broking_Limited_Logo_jat1ng.jpg",
+        "redirectURL": ""http://trk.netgainz.in/of?o=21741578&m=1446&a=633875&sub_aff_id="
     }
 }
