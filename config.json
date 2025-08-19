@@ -347,5 +347,11 @@
         "campaignName": "Bajaj Finserv",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=386&aff_sub2="
+    },
+"NGA25_5Paisa": {
+        "active": 0,
+        "campaignName": "5 Paisa",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733327014/_323_42_xynof8.webp",
+        "redirectURL": "http://trk.netgainz.in/tr?o=21763414&m=25824&a=685139&sub_aff_id="
     }
 }
