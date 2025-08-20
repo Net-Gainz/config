@@ -353,5 +353,11 @@
         "campaignName": "5 Paisa",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733327014/_323_42_xynof8.webp",
         "redirectURL": "http://trk.netgainz.in/tr?o=21763414&m=25824&a=685139&sub_aff_id="
+    },
+"NGPL25_Jainam": {
+        "active": 1,
+        "campaignName": "Jainam",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754297179/Jainam_Broking_Limited_Logo_jat1ng.jpg",
+        "redirectURL": "http://trk.netgainz.in/um?o=21757147&m=4534&a=606492"
     }
 }
