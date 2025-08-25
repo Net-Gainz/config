@@ -359,5 +359,11 @@
         "campaignName": "Jainam",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754297179/Jainam_Broking_Limited_Logo_jat1ng.jpg",
         "redirectURL": "http://trk.netgainz.in/um?o=21757147&m=4534&a=606492&sub_aff_id="
+    },
+"NGPL25_FinOne": {
+        "active": 1,
+        "campaignName": "FinOne",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_crop,w_1920,h_220/v1756126078/XCpSphIvENOCARSsbWRo_gpxwkm.webp",
+        "redirectURL": "http://trk.netgainz.in/dg?campaign_id=575&pub_id=272&source="
     }
 }
