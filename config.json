@@ -373,5 +373,11 @@
         "redirectURL": "http://trk.netgainz.in/tr?o=21774282&m=25824&a=685139&sub_aff_id=",
          "minAge": 18,
          "maxAge": 25
+    },
+"NGASP5_Vantage": {
+        "active": 0,
+        "campaignName": "Vantage",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_fill,w_1951,h_360/v1756811213/vantage-full-logo-RGB_kvnht3.png",
+        "redirectURL": "http://trk.netgainz.in/of?o=21767773&m=1446&a=633875&sub_aff_id=%7Breplace_it%7D"
     }
 }
