@@ -1,12 +1,12 @@
 {
     "RYDI9_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "https://ekyc.miraeassetcm.com/Register-with-us?ref=REF399581%26refsrc=2"
     },
     "NG_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "https://ekyc.miraeassetcm.com/Register-with-us?ref=REF399581%26refsrc=2"
@@ -18,13 +18,13 @@
         "redirectURL": "https://ekyc.miraeassetcm.com/Register-with-us?ref=REF1707896%26refsrc=2"
     },
 "NGJ_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": ""
     },
     "AU6Y_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-account/?f=87AU6Y"
@@ -36,43 +36,43 @@
         "redirectURL": "https://trk.netgainz.in/jc?aid=226&oid=320&aff_sub2="
     },
  "SOMNT_ShareMarket": {
-        "active": 1,
+        "active": 0,
         "campaignName": "ShareMarket - NetGainz",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_crop,w_1067,h_600,ar_16:9/v1739295785/Share.Market-Logo-JPEG_pasviw.jpg",
         "redirectURL": ""
     },
     "AIAAO_AngelOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Angel One",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
         "redirectURL": "https://a.aonelink.in/ANGOne/7WmCDVm?utm_source=NGA&utm_medium=NG9&utm_campaign=NG9"
     },
     "NG_AngelOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Angel One",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
         "redirectURL": "https://bit.ly/example"
     },
     "VY_AngelOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Angel One",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
         "redirectURL": "https://bit.ly/40qOMZs"
     },
     "hba_AngelOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Angel One",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
         "redirectURL": "https://bit.ly/4atvwPH"
     },
     "RA74_AngelOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Angel One",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
         "redirectURL": "https://bit.ly/4aUIhD6"
     },
     "1008_5Paisa": {
-        "active": 1,
+        "active": 0,
         "campaignName": "5 Paisa",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733327014/_323_42_xynof8.webp",
         "redirectURL": ""
@@ -84,7 +84,7 @@
         "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=G1007709"
     },
     "NG_MotilalOswal": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=N1029240"
@@ -157,13 +157,13 @@
         "redirectURL": "https://trk.netgainz.in/of?o=21599817&m=1446&a=633875&sub_aff_id="
     },
 "A1CI_BajajFinserv": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Bajaj Finserv - NetGainz",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736584710/a716035b5477863555b43e8071191184_qbmzzk.png",
         "redirectURL": "https://flyy.in/098A1CI"
     },
     "OFL_Market4You": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Markets4You",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1746615641/Markets4you_Logo_cscf7y.jpg",
         "redirectURL": "https://trk.netgainz.in/as?o=21617144&m=1446&a=633875&sub_aff_id="
@@ -175,19 +175,19 @@
         "redirectURL": "https://upstox.com/open-account/?f=7EAL92"
     },
 "AONG_AngelOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "AngelOne - NetGainz",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
         "redirectURL": "https://a.aonelink.in/ANGOne/FqPAHSV?utm_source=telegram&utm_medium=Gourav&utm_campaign=NETM"
     },
 "AUMC_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "http://trk.netgainz.in/as?o=21622049&m=1446&a=633875&sub_aff_id="
     },
 "4489_SmallCase": {
-        "active": 1,
+        "active": 0,
         "campaignName": "SmallCase - NetGainz",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1748879738/Logo_smallcase_xcwtnf.png",
         "redirectURL": "https://trk.netgainz.in/of?o=21644489&m=1446&a=633875&sub_aff_id="
@@ -199,7 +199,7 @@
         "redirectURL": "http://trk.netgainz.in/at?sub_id1="
     },
 "NGJY25_PaytmMoney": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Paytm Money",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1749119320/Paytm_Money_Logo_redgt7.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21668696&m=1446&a=633875&sub_aff_id="
@@ -217,7 +217,7 @@
         "redirectURL": "https://a.aonelink.in/ANGOne/kujYYig?utm_source=DRA&utm_medium=NET06&utm_campaign=NET25"
     },
 "NGAL_AngelOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Angel One",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21626318&m=1446&a=633875&sub_aff_id="
@@ -229,19 +229,19 @@
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=359&aff_sub2="
     },
 "EAWXF_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-account/?f=7EAWXF"
     },
 "7AVBH_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-account/?f=87AVBH"
     },
 "NGJY25_MotilalOswal": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=370&aff_sub2="
@@ -259,7 +259,7 @@
         "redirectURL": ""
     },
  "NGJY25_Lemonn": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Lemonn",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_fill,w_500,h_140/v1751968356/resizecom_Logo_Lemonn_PNG_White-BG-002-2_qsrop4.png",
         "redirectURL": "http://trk.netgainz.in/um?o=21550173&m=4534&a=606492&sub_aff_id="
@@ -289,19 +289,19 @@
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=323&aff_sub2="
     },
 "NGJPS8_Groww": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Groww",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/Groww_app_logo_kzcdms.png",
         "redirectURL": "http://trk.netgainz.in/um?o=17389430&m=4534&a=606492&sub_aff_id="
     },
 "NGSP25_Lemonn": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Lemonn",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_fill,w_500,h_140/v1751968356/resizecom_Logo_Lemonn_PNG_White-BG-002-2_qsrop4.png",
         "redirectURL": "http://trk.netgainz.in/um?o=21550173&m=4534&a=606492&sub_aff_id="
     },
 "NG_PaytmMoney": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Paytm Money",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1749119320/Paytm_Money_Logo_redgt7.png",
         "redirectURL": "https://paytmmoney.page.link/FjmzqAqPuLmRvb1e8"
@@ -325,13 +325,13 @@
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=349&aff_sub2="
     },
 "NGA08_PaytmMoney": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Paytm Money",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1749119320/Paytm_Money_Logo_redgt7.png",
         "redirectURL": "http://trk.netgainz.in/ps?o=21669363&m=12754&a=677751&sub_aff_id="
     },
 "NGSP25_MotilalOswal": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "http://trk.netgainz.in/ps?o=20598479&m=12754&a=677751&sub_aff_id="
@@ -343,7 +343,7 @@
         "redirectURL": "http://trk.netgainz.in/of?o=21739868&m=1446&a=633875&sub_aff_id="
     },
 "NGA25_BajajFinserv": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Bajaj Finserv",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=386&aff_sub2="
@@ -355,19 +355,19 @@
         "redirectURL": "http://trk.netgainz.in/tr?o=21763414&m=25824&a=685139&sub_aff_id="
     },
 "NGPL925_Jainam": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Jainam",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754297179/Jainam_Broking_Limited_Logo_jat1ng.jpg",
         "redirectURL": "http://trk.netgainz.in/um?o=21757147&m=4534&a=606492&sub_aff_id="
     },
 "NGPL25_FinOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "FinOne",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_crop,w_1920,h_220/v1756126078/XCpSphIvENOCARSsbWRo_gpxwkm.webp",
         "redirectURL": "http://trk.netgainz.in/dg?campaign_id=575&pub_id=272&source="
     },
 "NGSP25_FinOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "FinOne",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_crop,w_1920,h_220/v1756126078/XCpSphIvENOCARSsbWRo_gpxwkm.webp",
         "redirectURL": "http://trk.netgainz.in/tr?o=21774282&m=25824&a=685139&sub_aff_id=",
@@ -375,7 +375,7 @@
          "maxAge": 25
     },
 "NGASP5_Vantage": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Vantage",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_fill,w_1951,h_360/v1756811213/vantage-full-logo-RGB_kvnht3.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21767773&m=1446&a=633875&sub_aff_id="
