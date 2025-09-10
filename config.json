@@ -121,7 +121,7 @@
         "redirectURL": "https://formlie.in/p/?o=J9WkdA"
     },
     "8EMD_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox - DiGi",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-account/?f=8EMD"
@@ -169,7 +169,7 @@
         "redirectURL": "https://trk.netgainz.in/as?o=21617144&m=1446&a=633875&sub_aff_id="
     },
 "AL92_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox - DIGI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-account/?f=7EAL92"
@@ -193,7 +193,7 @@
         "redirectURL": "https://trk.netgainz.in/of?o=21644489&m=1446&a=633875&sub_aff_id="
     },
 "NGJ25_MStock": {
-        "active": 1,
+        "active": 0,
         "campaignName": "MStock",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733250941/mstock_nxkovp.png",
         "redirectURL": "http://trk.netgainz.in/at?sub_id1="
@@ -253,7 +253,7 @@
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=353&aff_sub2="
     },
  "NG_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": ""
@@ -271,7 +271,7 @@
         "redirectURL": "http://trk.netgainz.in/um?o=21448892&m=4534&a=606492&sub_aff_id="
     },
 "NGJY25_Tide": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Tide",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1751974975/tide-logo-og2_jy6bd3.webp",
         "redirectURL": "http://trk.netgainz.in/dg?campaign_id=486&pub_id=272&source="
