@@ -379,5 +379,11 @@
         "campaignName": "Vantage",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_fill,w_1951,h_360/v1756811213/vantage-full-logo-RGB_kvnht3.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21767773&m=1446&a=633875&sub_aff_id="
+    },
+    "NGO25_NielsenSP": {
+        "active": 0,
+        "campaignName": "Nielsen",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1759578719/Nielsen_New_Logo_2021_xtrsad.png",
+        "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=411&aff_sub2="
     }
 }
