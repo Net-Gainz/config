@@ -385,5 +385,11 @@
         "campaignName": "Nielsen",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1759578719/Nielsen_New_Logo_2021_xtrsad.png",
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=411&aff_sub2="
+    },
+"NG1025_BajajEMI": {
+        "active": 1,
+        "campaignName": "Bajaj EMI",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
+        "redirectURL": "http://trk.netgainz.in/of?o=21781288&m=1446&a=633875&sub_aff_id="
     }
 }
