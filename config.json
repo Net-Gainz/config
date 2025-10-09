@@ -391,5 +391,11 @@
         "campaignName": "Bajaj EMI",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
         "redirectURL": "http://trk.netgainz.in/of?o=21781288&m=1446&a=633875&sub_aff_id="
+    },
+"NGJPS9_Groww": {
+        "active": 0,
+        "campaignName": "Groww",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/Groww_app_logo_kzcdms.png",
+        "redirectURL": "http://trk.netgainz.in/um?o=17389430&m=4534&a=606492&sub_aff_id="
     }
 }
