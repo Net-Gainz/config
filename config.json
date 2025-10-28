@@ -409,5 +409,11 @@
         "campaignName": "Bajaj Finserv",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
         "redirectURL": "http://trk.netgainz.in/dg?campaign_id=560&pub_id=272&source="
+    },
+"NGA_HFMarkets": {
+        "active": 1,
+        "campaignName": "HF Markets",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1761641205/hfm_logo_melzje.png",
+        "redirectURL": "https://register.hfm.com/sv/en/new-live-account/?raf_id=R86067"
     }
 }
