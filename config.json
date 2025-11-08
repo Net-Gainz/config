@@ -415,5 +415,17 @@
         "campaignName": "HF Markets",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1761641205/hfm_logo_melzje.png",
         "redirectURL": "https://register.hfm.com/sv/en/new-live-account/?raf_id=R86067"
+    },
+"NGO25_AxisMF": {
+        "active": 1,
+        "campaignName": "Axis Mutual Fund",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1762600022/1738587994-2395_pp9da2.jpg",
+        "redirectURL": "http://trk.netgainz.in/of?o=21829038&m=1446&a=633875&sub_aff_id="
+    },
+"NGO25_ICICIMF": {
+        "active": 1,
+        "campaignName": "ICICI Mutual Fund",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1762600022/1738587994-2395_pp9da2.jpg",
+        "redirectURL": "http://trk.netgainz.in/as?o=21801265&m=1446&a=633875&sub_aff_id=""
     }
 }
