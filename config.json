@@ -435,5 +435,11 @@
         "redirectURL": "http://trk.netgainz.in/um?o=21448892&m=4534&a=606492&sub_aff_id=",
          "minAge": 26,
          "maxAge": 50
+    },
+"NG125_MotilalOswal": {
+        "active": 1,
+        "campaignName": "Motilal Oswal",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
+        "redirectURL": "http://trk.netgainz.in/of?o=21861926&m=1446&a=633875&sub_aff_id="
     }
 }
