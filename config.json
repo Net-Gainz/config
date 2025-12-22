@@ -437,7 +437,7 @@
          "maxAge": 50
     },
 "NG125_MotilalOswal": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21861926&m=1446&a=633875&sub_aff_id="
