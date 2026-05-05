@@ -54,7 +54,7 @@
         "redirectURL": "https://bit.ly/example"
     },
 "NGS_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-account/?f=87AU6Y"
@@ -96,7 +96,7 @@
         "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=G1007709"
     },
     "NG_MotilalOswal": {
-        "active": 0,
+        "active": 1,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "https://ekyc.motilaloswal.com/open-demat-account/?referralCode=N1029240"
@@ -193,7 +193,7 @@
         "redirectURL": "https://a.aonelink.in/ANGOne/FqPAHSV?utm_source=telegram&utm_medium=Gourav&utm_campaign=NETM"
     },
 "AUMC_Upstox": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Upstox",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "http://trk.netgainz.in/as?o=21622049&m=1446&a=633875&sub_aff_id="
@@ -343,7 +343,7 @@
         "redirectURL": "http://trk.netgainz.in/ps?o=21669363&m=12754&a=677751&sub_aff_id="
     },
 "NGSP25_MotilalOswal": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Motilal Oswal",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1736495903/MOTILALOFS.NS_BIG-55e383aa_mzvzjb.png",
         "redirectURL": "http://trk.netgainz.in/ps?o=20598479&m=12754&a=677751&sub_aff_id="
@@ -367,7 +367,7 @@
         "redirectURL": "http://trk.netgainz.in/tr?o=21763414&m=25824&a=685139&sub_aff_id="
     },
 "NGPL925_Jainam": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Jainam",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1754297179/Jainam_Broking_Limited_Logo_jat1ng.jpg",
         "redirectURL": "http://trk.netgainz.in/um?o=21757147&m=4534&a=606492&sub_aff_id="
@@ -379,7 +379,7 @@
         "redirectURL": "http://trk.netgainz.in/dg?campaign_id=575&pub_id=272&source="
     },
 "NGSP25_FinOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "FinOne",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/c_crop,w_1920,h_220/v1756126078/XCpSphIvENOCARSsbWRo_gpxwkm.webp",
         "redirectURL": "http://trk.netgainz.in/tr?o=21774282&m=25824&a=685139&sub_aff_id=",
@@ -393,7 +393,7 @@
         "redirectURL": "http://trk.netgainz.in/of?o=21767773&m=1446&a=633875&sub_aff_id="
     },
 "NGO25_NielsenSP": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Nielsen",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1759578719/Nielsen_New_Logo_2021_xtrsad.png",
         "redirectURL": "http://trk.netgainz.in/jc?aid=226&oid=411&aff_sub2="
@@ -405,7 +405,7 @@
         "redirectURL": "http://trk.netgainz.in/of?o=21781288&m=1446&a=633875&sub_aff_id="
     },
 "NGPS9_Tide": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Tide",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1751974975/tide-logo-og2_jy6bd3.webp",
         "redirectURL": "https://play.google.com/store/apps/details?id=co.tide.tideplatform.in"
@@ -435,13 +435,13 @@
         "redirectURL": "http://trk.netgainz.in/of?o=21829038&m=1446&a=633875&sub_aff_id="
     },
 "NGO25_ICICIMF": {
-        "active": 1,
+        "active": 0,
         "campaignName": "ICICI Mutual Fund",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1762601627/ICICI_20Prudential_gh0cur.svg",
         "redirectURL": "http://trk.netgainz.in/as?o=21801265&m=1446&a=633875&sub_aff_id="
     },
 "NGN25_BajajFinserv": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Bajaj Finserv",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
         "redirectURL": "http://trk.netgainz.in/um?o=21448892&m=4534&a=606492&sub_aff_id=",
@@ -455,19 +455,19 @@
         "redirectURL": "http://trk.netgainz.in/of?o=21861926&m=1446&a=633875&sub_aff_id="
     },
     "NG125_Kotak811": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Kotak 811",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1766828290/63ece15b5e4721001d0c27d1_hie3er.jpg",
         "redirectURL": "http://trk.netgainz.in/of?o=21856127&m=1446&a=633875&sub_aff_id="
     },
 "NG126_AngelOne": {
-        "active": 1,
+        "active": 0,
         "campaignName": "Angel One",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21878571&m=1446&a=633875&sub_aff_id="
     },
 "NG126_SmallCase": {
-        "active": 1,
+        "active": 0,
         "campaignName": "SmallCase",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1748879738/Logo_smallcase_xcwtnf.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21876024&m=1446&a=633875&sub_aff_id="
