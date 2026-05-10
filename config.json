@@ -495,5 +495,11 @@
         "campaignName": "Kotak Securites",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1777976736/copy_of_logo_sn2bo6_581aca.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21933059&m=1446&a=633875&sub_aff_id="
+    },
+"M01_Upstox": {
+        "active": 1,
+        "campaignName": "Upstox",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
+        "redirectURL": ""
     }
 }
