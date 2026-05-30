@@ -507,5 +507,11 @@
         "campaignName": "Groww",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/Groww_app_logo_kzcdms.png",
         "redirectURL": "http://trk.netgainz.in/um?o=17389430&m=4534&a=606492&sub_aff_id="
+    },
+"HSGT0526": {
+        "active": 1,
+        "campaignName": "HDFC Sky",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1780137054/HdfcSky.1bda5a46f42aeecae38f_odow9x.png",
+        "redirectURL": "http://trk.netgainz.in/of?o=21962170&m=1446&a=633875&sub_aff_id="
     }
 }
