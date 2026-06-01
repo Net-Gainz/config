@@ -242,7 +242,7 @@
     },
 "EAWXF_Upstox": {
         "active": 1,
-        "campaignName": "Upstox - DIGI",
+        "campaignName": "Upstox",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-account/?f=7EAWXF"
     },
@@ -502,7 +502,7 @@
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1730876414/zsfnd5hr1ov9mn6o1aef.png",
         "redirectURL": "https://upstox.com/open-demat-account/?landing_page=ReferAndEarn&f=6LAKNT&source_caller=api&pid=refernearn&utm_source=refernearn&shortlink=6LAKNT&utm_medium=referral&af_ad=referral&deep_link_value=7b2275746d5f736f75726365223a2272656665726e6561726e222c2266223a22364c414b4e54222c2275746d5f6d656469756d223a22726566657272616c222c226c616e64696e675f70616765223a225265666572416e644561726e227d&c=6LAKNT"
     },
-    "GRWPS0526-01": {
+"GRWPS0526-01": {
         "active": 1,
         "campaignName": "Groww",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/Groww_app_logo_kzcdms.png",
@@ -513,5 +513,6 @@
         "campaignName": "HDFC Sky",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1780137054/HdfcSky.1bda5a46f42aeecae38f_odow9x.png",
         "redirectURL": "http://trk.netgainz.in/of?o=21962170&m=1446&a=633875&sub_aff_id="
-    }
+    },
+
 }
