@@ -519,5 +519,11 @@
         "campaignName": "Bajaj Finserv",
         "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1745133223/Bajaj-Finserv-Logo_zsqugh.jpg",
         "redirectURL": "http://trk.netgainz.in/umn?pub_id=71&camp_id=12&source="
+    },
+"AN1A0626": {
+        "active": 1,
+        "campaignName": "Angel One",
+        "logoURL": "https://res.cloudinary.com/dcrh4vlwd/image/upload/v1733050134/Angel-One-logo_yogtnl.png",
+        "redirectURL": "http://trk.netgainz.in/umn?pub_id=71&camp_id=10&source="
     }
 }
